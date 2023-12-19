@@ -17,7 +17,7 @@
 ###
 
 <p align="left">✨ Here I Created a Page Display countdown from 10 to 1 on the screen and then display Happy Independence Day
-on the screen. Using HTML, CSS and JavaScript <br>✨ Without using any functions and Loops <br>✨ And Imported to GitHub Using Git<br>✨ <br>✨ Deployed my web application in Netlify </p>
+on the screen. Using HTML, CSS and JavaScript <br>✨ Without using any functions and Loops <br>✨ And Imported to GitHub Using Git<br>✨ Deployed my web application in Netlify </p>
 
 ###
 
