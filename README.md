@@ -54,7 +54,11 @@ on the screen. Using HTML, CSS and JavaScript <br>✨ Without using any function
 ###
 
 
-<img align="left" src="https://github.com/Prakash-V-S/Day-16-CALL-BACK-HELL-TASK/assets/141955456/236b944a-dd76-499d-a506-6ffa98898b31" />
+<img
+  style="border: 0px solid rgba(100, 100, 100, 1);
+  border-radius: 4px;
+  box-shadow: 0px 0px 39px 14px rgba(255, 255, 255, 1);" align="left" 
+ src="https://github.com/Prakash-V-S/Day-16-CALL-BACK-HELL-TASK/assets/141955456/236b944a-dd76-499d-a506-6ffa98898b31" />
 
 
 ###
